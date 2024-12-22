@@ -1,0 +1,4 @@
+{
+    "columns_to_keep": ["PID", "selfLR", "ClinLR", "DoleLR", "temp", "fail"]
+  }
+  

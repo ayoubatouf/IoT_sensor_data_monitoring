@@ -1,0 +1,9 @@
+services:
+  app:
+    build: . 
+    container_name: sensor-data-monitoring  
+    command: uvicorn src.serving.fast_api.app:app --host 0.0.0.0 --port 8000 --reload --reload-include *
+    ports:
+      - "8000:8000"  
+    volumes:
+      - .:/app 

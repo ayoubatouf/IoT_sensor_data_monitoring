@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ayoub/Desktop/IoT_sensor_data_monitoring/deployment/mlflow/mlruns/0/af3ba3dd16bb4cfda48cfad7fe3517e9/artifacts
+end_time: 1732824295060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af3ba3dd16bb4cfda48cfad7fe3517e9
+run_name: bald-fish-753
+run_uuid: af3ba3dd16bb4cfda48cfad7fe3517e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732824294668
+status: 4
+tags: []
+user_id: ayoub

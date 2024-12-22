@@ -1,0 +1,11 @@
+Accuracy: 0.8994708994708994
+
+Classification Report:
+{'0': {'precision': 0.9174311926605505, 'recall': 0.9090909090909091, 'f1-score': 0.9132420091324202, 'support': 110}, '1': {'precision': 0.875, 'recall': 0.8860759493670886, 'f1-score': 0.8805031446540881, 'support': 79}, 'accuracy': 0.8994708994708994, 'macro avg': {'precision': 0.8962155963302753, 'recall': 0.8975834292289988, 'f1-score': 0.8968725768932542, 'support': 189}, 'weighted avg': {'precision': 0.8996954031357701, 'recall': 0.8994708994708994, 'f1-score': 0.8995575102234877, 'support': 189}}
+
+Confusion Matrix:
+[[100  10]
+ [  9  70]]
+
+ROC AUC Score: 0.9693901035673187
+Log Loss: 0.22703724578342788

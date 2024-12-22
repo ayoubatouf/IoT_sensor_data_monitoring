@@ -1,0 +1,224 @@
+{
+    "data": [
+        {
+            "footfall": 860,
+            "atemp": 3,
+            "selfLR": 6,
+            "ClinLR": 2,
+            "DoleLR": 2,
+            "PID": 3,
+            "outpressure": 27,
+            "inpressure": 3,
+            "temp": 1
+        },
+        {
+            "footfall": 1294,
+            "atemp": 4,
+            "selfLR": 7,
+            "ClinLR": 2,
+            "DoleLR": 6,
+            "PID": 0,
+            "outpressure": 43,
+            "inpressure": 2,
+            "temp": 1
+        },
+        {
+            "footfall": 1130,
+            "atemp": 0,
+            "selfLR": 6,
+            "ClinLR": 1,
+            "DoleLR": 6,
+            "PID": 4,
+            "outpressure": 30,
+            "inpressure": 6,
+            "temp": 2
+        },
+        {
+            "footfall": 1095,
+            "atemp": 3,
+            "selfLR": 3,
+            "ClinLR": 2,
+            "DoleLR": 6,
+            "PID": 4,
+            "outpressure": 70,
+            "inpressure": 4,
+            "temp": 1
+        },
+        {
+            "footfall": 1638,
+            "atemp": 1,
+            "selfLR": 4,
+            "ClinLR": 5,
+            "DoleLR": 2,
+            "PID": 1,
+            "outpressure": 36,
+            "inpressure": 5,
+            "temp": 1
+        },
+        {
+            "footfall": 2169,
+            "atemp": 5,
+            "selfLR": 7,
+            "ClinLR": 2,
+            "DoleLR": 4,
+            "PID": 4,
+            "outpressure": 27,
+            "inpressure": 4,
+            "temp": 2
+        },
+        {
+            "footfall": 466,
+            "atemp": 4,
+            "selfLR": 4,
+            "ClinLR": 4,
+            "DoleLR": 6,
+            "PID": 1,
+            "outpressure": 54,
+            "inpressure": 4,
+            "temp": 1
+        },
+        {
+            "footfall": 1238,
+            "atemp": 3,
+            "selfLR": 1,
+            "ClinLR": 4,
+            "DoleLR": 5,
+            "PID": 0,
+            "outpressure": 54,
+            "inpressure": 2,
+            "temp": 2
+        },
+        {
+            "footfall": 330,
+            "atemp": 0,
+            "selfLR": 3,
+            "ClinLR": 7,
+            "DoleLR": 7,
+            "PID": 3,
+            "outpressure": 52,
+            "inpressure": 4,
+            "temp": 2
+        },
+        {
+            "footfall": 1482,
+            "atemp": 0,
+            "selfLR": 5,
+            "ClinLR": 4,
+            "DoleLR": 2,
+            "PID": 3,
+            "outpressure": 78,
+            "inpressure": 6,
+            "temp": 2
+        },
+        {
+            "footfall": 2135,
+            "atemp": 2,
+            "selfLR": 3,
+            "ClinLR": 7,
+            "DoleLR": 2,
+            "PID": 3,
+            "outpressure": 24,
+            "inpressure": 4,
+            "temp": 1
+        },
+        {
+            "footfall": 2919,
+            "atemp": 2,
+            "selfLR": 7,
+            "ClinLR": 4,
+            "DoleLR": 4,
+            "PID": 4,
+            "outpressure": 61,
+            "inpressure": 2,
+            "temp": 1
+        },
+        {
+            "footfall": 130,
+            "atemp": 6,
+            "selfLR": 5,
+            "ClinLR": 5,
+            "DoleLR": 2,
+            "PID": 0,
+            "outpressure": 58,
+            "inpressure": 6,
+            "temp": 1
+        },
+        {
+            "footfall": 1685,
+            "atemp": 1,
+            "selfLR": 1,
+            "ClinLR": 7,
+            "DoleLR": 2,
+            "PID": 4,
+            "outpressure": 77,
+            "inpressure": 3,
+            "temp": 1
+        },
+        {
+            "footfall": 769,
+            "atemp": 7,
+            "selfLR": 7,
+            "ClinLR": 3,
+            "DoleLR": 6,
+            "PID": 4,
+            "outpressure": 60,
+            "inpressure": 4,
+            "temp": 1
+        },
+        {
+            "footfall": 2391,
+            "atemp": 3,
+            "selfLR": 2,
+            "ClinLR": 6,
+            "DoleLR": 4,
+            "PID": 0,
+            "outpressure": 47,
+            "inpressure": 2,
+            "temp": 1
+        },
+        {
+            "footfall": 1515,
+            "atemp": 3,
+            "selfLR": 4,
+            "ClinLR": 1,
+            "DoleLR": 6,
+            "PID": 0,
+            "outpressure": 26,
+            "inpressure": 3,
+            "temp": 1
+        },
+        {
+            "footfall": 2853,
+            "atemp": 7,
+            "selfLR": 1,
+            "ClinLR": 4,
+            "DoleLR": 7,
+            "PID": 0,
+            "outpressure": 28,
+            "inpressure": 3,
+            "temp": 2
+        },
+        {
+            "footfall": 2433,
+            "atemp": 6,
+            "selfLR": 4,
+            "ClinLR": 2,
+            "DoleLR": 7,
+            "PID": 0,
+            "outpressure": 27,
+            "inpressure": 5,
+            "temp": 1
+        },
+        {
+            "footfall": 1215,
+            "atemp": 5,
+            "selfLR": 6,
+            "ClinLR": 4,
+            "DoleLR": 6,
+            "PID": 3,
+            "outpressure": 31,
+            "inpressure": 6,
+            "temp": 2
+        }
+    ]
+}

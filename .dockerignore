@@ -1,0 +1,10 @@
+# exclude directories
+
+data/
+reports/
+tests/
+deployment/
+scripts/
+.vscode/
+
+**/__pycache__/

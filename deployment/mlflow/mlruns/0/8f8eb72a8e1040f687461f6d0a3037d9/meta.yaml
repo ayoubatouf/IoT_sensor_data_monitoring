@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ayoub/Desktop/IoT_sensor_data_monitoring/deployment/mlflow/mlruns/0/8f8eb72a8e1040f687461f6d0a3037d9/artifacts
+end_time: 1732824803295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f8eb72a8e1040f687461f6d0a3037d9
+run_name: zealous-foal-84
+run_uuid: 8f8eb72a8e1040f687461f6d0a3037d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732824777540
+status: 3
+tags: []
+user_id: ayoub

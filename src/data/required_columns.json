@@ -1,0 +1,14 @@
+{
+    "required_columns": [
+      "footfall", 
+      "atemp", 
+      "selfLR", 
+      "ClinLR", 
+      "DoleLR", 
+      "PID", 
+      "outpressure", 
+      "inpressure", 
+      "temp"
+    ]
+  }
+  

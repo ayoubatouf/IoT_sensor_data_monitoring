@@ -1,0 +1,15 @@
+artifact_uri: file:///home/ayoub/Desktop/IoT_sensor_data_monitoring/deployment/mlflow/mlruns/0/70a982a89958458fa4ecf9fb4c1964de/artifacts
+end_time: 1732824187211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70a982a89958458fa4ecf9fb4c1964de
+run_name: funny-kit-489
+run_uuid: 70a982a89958458fa4ecf9fb4c1964de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732824186780
+status: 4
+tags: []
+user_id: ayoub
